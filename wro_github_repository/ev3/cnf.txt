@@ -1,0 +1,4 @@
+{"turn": 1, "vmin": 81, "smax": 199, "hmax": 31, "smin": 174, "data": "orange", "vmax": 94, "hmin": 14}
+{"turn": -1, "vmin": 48, "smax": 208, "hmax": 225, "smin": 147, "data": "blue", "vmax": 56, "hmin": 190}
+{"b": 54, "data": "compass_1", "a": 316, "c": 128, "d": 211}
+{"b": 223, "data": "compass_2", "a": 124, "c": 315, "d": 44}
